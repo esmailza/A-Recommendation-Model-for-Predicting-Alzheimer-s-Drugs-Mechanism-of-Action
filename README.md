@@ -8,3 +8,16 @@ leaves indicate the DMT Biologics class and orange leaves stands for Small Molec
 [dt-eps-converted-to.pdf](https://github.com/esmailza/A-Recommendation-Model-for-Predicting-Alzheimer-s-Drugs-Mechanism-of-Action/files/9854740/dt-eps-converted-to.pdf)
  ## Dataset
  Download the dataset from [https://www.alzforum.org/therapeutics]
+ ## citation
+ ```sh
+ @inproceedings{pouyan,
+  title={A Recommendation Model for Predicting Alzheimer's Drugs' Mechanism of Action},
+  author={Nahed, Pouyan and Kambar, Mina Esmail Zadeh Nojoo and Cacho, Jorge Ram{\'o}n Fonseca and Lee, Garam and Cummings, Jeffrey and Taghva, Kazem},
+  booktitle={Intelligent Sustainable Systems - Selected Papers of WorldS4},
+  pages={},
+  year={2022},
+  organization={Springer}
+}
+
+ ```
+ 
